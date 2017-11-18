@@ -30,8 +30,8 @@ social:
     url: http://github.com/thomasgubler
   - title: linkedin
     url: https://www.linkedin.com/in/thomasgubler
-  - title: google-plus
-    url: https://plus.google.com/+ThomasGubler
+  # - title: google-plus
+  #   url: https://plus.google.com/+ThomasGubler
 
 
 # Postal address (add as many lines as necessary)
